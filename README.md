@@ -1,33 +1,78 @@
-[![GitHub Banner](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)](https://github.com/sudheerj/github-readme-artifact)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi!%20I'm%20Om%20Kumar%20Gupta&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 
-<h1 align="center">Hi 👋, I'm HelloCipher</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/05/53/88/055388816733536ab521851a094e9626.gif">
+<h3 align="center">Motivated Web Development Learner | AI-Assisted Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hellocipher&label=Profile%20views&color=0e75b6&style=flat" alt="hellocipher" /> </p>
+<div align="center">
+  <p>Building real-world web applications while mastering frontend and backend technologies.</p>
+  
+  <a href="https://linkedin.com/in/omgupta-cipher">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://helloom.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:cipher.linux1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hellocipher" alt="hellocipher" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on **Jarvis assistant**
+<div align="right">
+  <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/05/53/88/055388816733536ab521851a094e9626.gif">
+</div>
 
-- 🌱 I’m currently learning **HTML , JAVASCRIPT,SQL**
+### 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [HelloCipher](HelloCipher)
+- 🎓 Class XII Student at **Sunbeam School**, Varanasi (Batch of 2025).
+- 💡 Specializing in using **AI-assisted workflows** to rapidly build, test, and deploy applications.
+- 🔭 Currently building an **Institute Website & Learning Platform** and working on a **Jarvis Assistant**.
+- 🌱 Actively expanding my knowledge in **React.js, JavaScript, Python (FastAPI), and MongoDB**.
+- ⚡ **Fun fact:** I am fluent in Hindi and English, and can hold a conversation in Bhojpuri!
 
-- 📫 How to reach me **HelloCipher**
+<br/>
 
-- ⚡ Fun fact **I always think about a creativity**
+### 🛠️ Tech Stack & Skills
 
-<h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
-<p align="left">
-</p>
+**Frontend:**  
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+**Backend & Databases (Learning):**  
+<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" alt="FastAPI" />
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellocipher&show_icons=true&locale=en&layout=compact" alt="hellocipher" /></p>
+**Tools & Deployment:**  
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat&logo=render&logoColor=white" alt="Render" />
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellocipher&show_icons=true&locale=en" alt="hellocipher" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellocipher&" alt="hellocipher" /></p>
+### 🚀 Featured Projects
+
+| Project | Description | Live Link |
+|---------|-------------|-----------|
+| **Institute Learning Platform** | Full-stack platform with JWT auth, role-based access, and MongoDB integration. Built with React and Python/FastAPI using AI workflows. | [🔗 omcomputercenter.vercel.app](https://omcomputercenter.vercel.app) |
+| **Personal Portfolio** | Responsive, clean frontend portfolio designed to showcase my learning progress and technical growth. | [🔗 helloom.vercel.app](https://helloom.vercel.app) |
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hellocipher&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellocipher&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <br/>
+  <p><img src="https://komarev.com/ghpvc/?username=hellocipher&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
+</div>
